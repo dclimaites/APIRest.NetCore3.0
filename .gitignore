@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/APIRestNetCore3/.vs/APIRestNetCore3/v16/Server/sqlite3
+debug
+bin
